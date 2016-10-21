@@ -1,0 +1,3 @@
+* gEDA
+  Símbolos y circuitos gEDA creados para facilitar el análisis de
+  circuitos en SPICE y realización de reportes.
